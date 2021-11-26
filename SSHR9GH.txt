@@ -1,4 +1,4 @@
-REPOSITÓRIO:
+REPOSITÓRIO: minhas anotações 
 é a pasta do projeto
 
 COMMIT:
