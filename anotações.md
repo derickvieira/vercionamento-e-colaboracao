@@ -1,21 +1,22 @@
-REPOSITÓRIO:  
-é a pasta do projeto 
+REPOSITÃ“RIO:  
+Ã© a pasta do projeto 
 
 COMMIT:  
-é um grupo de alterações no código 
+Ã© um grupo de alteraÃ§Ãµes no cÃ³digo 
 
 BRANCH:
-São ramificações do projeto, servem para separar grandes modificações
-e evitam criar porblemas no código principal.
+SÃ£o ramificaÃ§Ãµes do projeto, servem para separar grandes modificaÃ§Ãµes
+e evitam criar porblemas no cÃ³digo principal.
 
 MERGE: 
-União de duas branches.
+UniÃ£o de duas branches.
 
 CLONE: 
-È como uma branch de um repositório online em um repositório local.
-Quando se deseja trabalhar em um repositório hospedado no github, 
-clona-se esse rpositório para se computador, trabalha se se nele e
-então é pedida a permissão  
+Ãˆ como uma branch de um repositÃ³rio online em um repositÃ³rio local.
+Quando se deseja trabalhar em um repositÃ³rio hospedado no github, 
+clona-se esse rpositÃ³rio para se computador, trabalha se se nele e
+entÃ£o Ã© pedida a permissÃ£o para atualizar as alterÃ§Ãµes online.
+
 
 
 
