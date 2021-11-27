@@ -1,7 +1,0 @@
-REPOSITÓRIO: #minhas anotações 
-é a pasta do projeto
-
-COMMIT:
-é um grupo de mudanças sem código
-
-FILIAL: São ramificações do projeto, servem para separar grandes modificações e evitam criar porblemas no código principal.
